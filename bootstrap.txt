@@ -1,0 +1,23 @@
+Bootstrap
+=========
+
+If you want to follow along during this tutorial then
+I recommend the Anaconda Python3 distribution:
+
+https://www.anaconda.com/download/
+
+For a quick start on CERN resources try:
+
+ssh USER@lxplus7.cern.ch
+$ source /cvmfs/sft.cern.ch/lcg/views/LCG_93python3/x86_64-centos7-gcc7-opt/setup.sh
+$ ipython
+Python 3.6.3 (default, Dec 18 2017, 11:58:54) 
+Type "copyright", "credits" or "license" for more information.
+
+IPython 5.4.1 -- An enhanced Interactive Python.
+?         -> Introduction and overview of IPython's features.
+%quickref -> Quick reference.
+help      -> Python's own help system.
+object?   -> Details about 'object', use 'object??' for extra details.
+
+In [1]: 
