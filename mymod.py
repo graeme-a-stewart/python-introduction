@@ -1,2 +1,5 @@
-# This is a trivial python module
-modvar=0
+"""
+This is a trivial python module with only one variable
+"""
+
+modvar = 0
